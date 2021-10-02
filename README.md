@@ -49,6 +49,7 @@ Validate input passed by users:
     are being verified to see if the inputs are correct and fit the requirements
     
 Notes:
+
     - should have composer installed if you want to run the website
     - use commands 'npm install' and 'npm run watch' to install the modules 
     - run 'php artisan migrate' to add the migrations 
