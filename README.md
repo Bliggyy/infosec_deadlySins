@@ -47,6 +47,14 @@ Validate input passed by users:
 
     - Based on the pictures shown above both the data that the user enters (when logging in or when registering)
     are being verified to see if the inputs are correct and fit the requirements
+    
+Notes:
+
+    - should have composer installed if you want to run the website
+    - use commands 'npm install' and 'npm run watch' to install the modules 
+    - run 'php artisan migrate' to add the migrations 
+        - should have a database named 'sin_demonstration'
+    - 'php artisan serve' to run the local server
 
 
 
